@@ -1,4 +1,4 @@
-# versiculododia
+# Versículo do Dia
 
 A new Flutter application.
 
